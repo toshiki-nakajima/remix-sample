@@ -6,7 +6,7 @@ csrf
 認証
 - login.tsx
 - dashboard.tsx
-- api/profile.ts
+- api.profile.ts
 - utils/auth.server.ts
 - utils/session.server.ts
 - types/user.ts
